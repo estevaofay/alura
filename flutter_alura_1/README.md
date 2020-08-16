@@ -16,10 +16,13 @@ The exercised features/skills are:
 
 The app is a transaction records app where the user can simply add a new Transaction and see a list of existing and past transactions.
 
+![Main Screen]()
+![Second Screen]()
+
 ## To run the app
 
-- clone the repo
-- Have a compatible Flutter IDE [https://flutter.dev/docs/get-started/editor?tab=vscode]
+- Clone the repo
+- (Have a compatible Flutter IDE)[https://flutter.dev/docs/get-started/editor?tab=vscode]
 - Have a simulator (iOS) or emulator (Android) or physical device conected and hit run app in the IDE
 
 
