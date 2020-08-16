@@ -16,8 +16,8 @@ The exercised features/skills are:
 
 The app is a transaction records app where the user can simply add a new Transaction and see a list of existing and past transactions.
 
-![Main Screen]()
-![Second Screen]()
+![Main Screen](/pictures/ListaTransferencia.png)
+![Second Screen](/pictures/FormularioTransferencia.png)
 
 ## To run the app
 
