@@ -22,7 +22,7 @@ The app is a transaction records app where the user can simply add a new Transac
 ## To run the app
 
 - Clone the repo
-- (Have a compatible Flutter IDE)[https://flutter.dev/docs/get-started/editor?tab=vscode]
+- [Have a compatible Flutter IDE](https://flutter.dev/docs/get-started/editor?tab=vscode)
 - Have a simulator (iOS) or emulator (Android) or physical device conected and hit run app in the IDE
 
 
