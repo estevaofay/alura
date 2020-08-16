@@ -1,16 +1,25 @@
-# flutter_alura_1
+# Curso Fundamentos de Flutter: Crie o seu primeiro App
 
-A new Flutter project.
+This repo maintains a Flutter app developed during the course of Alura's First Flutter course.
 
-## Getting Started
+The course and this app mainly focus on teaching and exercising Flutter's core initial concepts.
 
-This project is a starting point for a Flutter application.
+The exercised features/skills are: 
 
-A few resources to get you started if this is your first Flutter project:
+- Stateless Widgets
+- Stateful Widgets
+- Hot Reload
+- Navigation
+- Widget Trees
+- Refactoring
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is a transaction records app where the user can simply add a new Transaction and see a list of existing and past transactions.
+
+## to run the app
+
+- clone the repo
+- Have a compatible Flutter IDE [https://flutter.dev/docs/get-started/editor?tab=vscode]
+- Have a simulator (iOS) or emulator (Android) or physical device conected and hit run app in the IDE
+
+
